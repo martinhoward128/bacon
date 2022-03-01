@@ -3,9 +3,7 @@
     background-color: #ffd5d5;
     font-weight: bold;
   }
-
 /******************** Tag Selectors ********************/
-
   hr {
     border-style: none;
     border-color: grey;
@@ -19,19 +17,11 @@
   h3 {
      color: green;
   }
-
-
 /******************** Pseudo Class Selectors ********************/
-
-
   img:hover {
-
       background-color: gold;
   }
-
-
 /******************** class Selectors ********************/
-
 .bacon {
   background-color: red;
 }
@@ -41,9 +31,7 @@
 .circular {
   border-radius: 100%;
 }
-
 /******************** id Selectors ********************/
-
 #heading {
   color: blue;
 }
